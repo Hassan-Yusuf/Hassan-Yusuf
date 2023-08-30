@@ -10,17 +10,6 @@
 - Email: hassan_yusuf_08@hotmail.com
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/hassan-yusuf)
 
-## Education
-- **BSC Computer Science (Including placement year)** - University of Essex, 2019 – 2023
-  - Second year: First class honours
-  - Overall degree: 2:1
-  - University of Essex Dean’s list of Excellence – 2020, 2021
-
-## Technical Skills
-- Proficient in C++, C#, Python, and Java.
-- Strong foundation in software development methodologies.
-- Collaborative problem-solving.
-- HTML/CSS/PHP for web development.
 
 ## Project Highlights
 - **Random Maze Generator using Spanning Tree Algorithm (Java)**
@@ -50,22 +39,6 @@
 - **Random Math Test Generator with Performance Analytics (Python)**
   - Designed a program to generate math tests and analyze student performance.
 
-## Work History
-- **Night Staff Librarian** - University of Essex Library, Apr 2023 – July 2023
-  - Delivered essential services, troubleshooting library equipment, and assisting students.
-  
-- **Charity Work** - Anthony Nolan, May 2018
-  - Worked as part of a team to create an advert for stem cell research charity.
-
-- **Ticket Office Salesclerk** - Millwall FC Ticket Office, Jul 2016 – Sep 2017
-  - Provided customer service and processed payments.
-
-## Key Skills
-- Positive attitude
-- Teamwork
-- Adaptability
-- Problem-solving skills
-- Willingness to learn
 
 ## Hobbies
 - Competitive basketball
