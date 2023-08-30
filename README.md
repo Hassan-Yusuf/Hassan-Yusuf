@@ -16,19 +16,23 @@
   - Developed a program that dynamically generates mazes using a spanning tree algorithm and adjacency matrix.
   
 - **COVID-19 Forecaster (Java)**
-  - Collaboratively designed a GUI-based COVID-19 forecaster that retrieves data from the web, featuring a PDF generator and forecasting graph.
+  - Collaboratively designed a GUI-based COVID-19 forecaster that retrieves data via webscraping scraping, featuring a PDF generator and forecasting graph visualizing results.
+ 
+- **Pelican Crossing Simulation (Java)**
+  - Implemented a "Pelican Crossing" pedestrian system using client-server architecture.
+    Clients emulated panels, and the server controlled traffic lights and signals, showcasing modularity and synchronization.
 
 - **Game Review Website (HTML/CSS/PHP/SQL)**
-  - Designed a game review platform with dynamic content generation and user interaction.
+  - Designed a game review website platform with dynamic content generation and user interaction.
 
 - **3D Maze Game in Unity (C#)**
   - Created a multi-level maze game with UIs, enemy AI, and cutscenes.
 
 - **Altitude Map Visualization and Sea Level Adjustment (Java)**
-  - Developed a program to visualize altitude data and adjust sea levels on a map.
+  - Developed a program that reads coordinates from a huge dataset to visualize altitude data essentially recreating a map of the earth with an extra feature to adjust sea levels. 
 
 - **Missile Command Remake (Java)**
-  - Recreated the iconic arcade game "Missile Command" in Java from scratch.
+  - Recreated the iconic arcade game "Missile Command" in Java from scratch with no external libraries.
 
 - **Number Guessing Game and Caesar Encryption Algorithm (C++)**
   - Created a random number guessing game with file storage and encryption.
