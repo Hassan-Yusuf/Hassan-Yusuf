@@ -1,6 +1,6 @@
 # Hassan Yusuf
 
-👋 Hi, I’m Hassan Yusuf, a recent Computer Science graduate actively seeking opportunities in software development.
+👋 Hi, I’m Hassan, a recent Computer Science graduate actively seeking opportunities in software development.
 
 🌱 I’m proficient in C++, C#, Python, and Java, with a strong foundation in software development methodologies and collaborative problem-solving. I have hands-on experience in developing various projects during my academic journey.
 
