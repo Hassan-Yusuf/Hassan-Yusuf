@@ -16,7 +16,7 @@
   - Developed a program that dynamically generates mazes using a spanning tree algorithm and adjacency matrix.
   
 - **COVID-19 Forecaster (Java)**
-  - Collaboratively designed a GUI-based COVID-19 forecaster that retrieves data via webscraping scraping, featuring a PDF generator and forecasting graph visualizing results.
+  - Collaboratively designed a GUI-based COVID-19 forecaster that retrieves data via webscraping, featuring a PDF generator and forecasting graph visualizing results.
  
 - **Pelican Crossing Simulation (Java)**
   - Implemented a "Pelican Crossing" pedestrian system using client-server architecture.
