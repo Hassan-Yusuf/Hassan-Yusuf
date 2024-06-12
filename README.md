@@ -14,6 +14,9 @@
 ## Project Highlights
 - **Random Maze Generator using Spanning Tree Algorithm (Java)**
   - Developed a program that dynamically generates mazes using a spanning tree algorithm and adjacency matrix.
+
+- **Full-stack java projects**
+  - This is in it's own separate repository and includes a recipe management web application and full-stack school database
   
 - **COVID-19 Forecaster (Java)**
   - Collaboratively designed a GUI-based COVID-19 forecaster that retrieves data via webscraping, featuring a PDF generator and forecasting graph visualizing results.
