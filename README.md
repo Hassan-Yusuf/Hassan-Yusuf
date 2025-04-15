@@ -8,7 +8,7 @@
 
 📫 You can reach me at: 
 - Email: hassan_yusuf_08@hotmail.com
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/hassan-yusuf)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/hassan-yusuf-0016061b9/)
 
 
 ## Project Highlights
