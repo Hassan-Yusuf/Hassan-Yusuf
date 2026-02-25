@@ -1,59 +1,37 @@
-# Hassan Yusuf
+Hassan Yusuf
 
-👋 Hi, I’m Hassan, a recent Computer Science graduate actively seeking opportunities in software development.
+Software Engineer based in London.
 
-🌱 I’m proficient in C++, C#, Python, and Java, with a strong foundation in software development methodologies and collaborative problem-solving. I have hands-on experience in developing various projects during my academic journey.
+I currently work at Cloudhouse, building and improving C# .NET packaging technology that enables legacy applications to run on modern systems. My work focuses on virtual machine analysis, packaging workflows, and CI/CD automation across the full development lifecycle.
 
-💼 Currently looking for opportunities to contribute to software projects and further develop my skills in a dynamic professional environment. So let me know if you like what you see!
+Previously at The Access Group, I contributed to the Direct Debit Central Management System (DDCMS), used by organisations such as Eon Energy and Cineworld. I also developed internal applications using .NET, React and GraphQL, and built CI/CD pipelines in Azure DevOps.
 
-📫 You can reach me at: 
-- Email: hassan_yusuf_08@hotmail.com
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/hassan-yusuf-0016061b9/)
+I focus on writing clean, maintainable, and well-structured code — prioritising simplicity, readability, and long-term reliability.
 
+Active development & commits:
+https://github.com/hassanyusufcloudhouse
 
-## Project Highlights
-- **Random Maze Generator using Spanning Tree Algorithm (Java)**
-  - Developed a program that dynamically generates mazes using a spanning tree algorithm and adjacency matrix.
+Tech
 
-- **Full-stack java projects**
-  - This is in it's own separate repository and includes a recipe management web application and full-stack school database
-  
-- **COVID-19 Forecaster (Java)**
-  - Collaboratively designed a GUI-based COVID-19 forecaster that retrieves data via webscraping, featuring a PDF generator and forecasting graph visualizing results.
- 
-- **Pelican Crossing Simulation (Java)**
-  - Implemented a "Pelican Crossing" pedestrian system using client-server architecture.
-    Clients emulated panels, and the server controlled traffic lights and signals, showcasing modularity and synchronization.
+C# • .NET • Java • Python • C++ • TypeScript
+React • REST APIs • GraphQL • Entity Framework • Spring Boot
+Azure DevOps • CI/CD • Git • Terraform • Swagger • Postman
+TDD • Agile • Clean Architecture
 
-- **Game Review Website (HTML/CSS/PHP/SQL)**
-  - Designed a game review website platform with dynamic content generation and user interaction.
+Selected Projects
 
-- **3D Maze Game in Unity (C#)**
-  - Created a multi-level maze game with UIs, enemy AI, and cutscenes.
+Roomie App — Full-stack (.NET, React, GraphQL) automated room pairing system
+COVID-19 Forecaster — Java forecasting tool with automated PDF reporting and data visualisation
+Pelican Crossing Simulation — Distributed client-server traffic system
+3D Maze Game (Unity) — Multi-level AI-driven game with UI and cutscenes
+Altitude Map Visualisation — Large dataset global terrain modelling project
 
-- **Altitude Map Visualization and Sea Level Adjustment (Java)**
-  - Developed a program that reads coordinates from a huge dataset to visualize altitude data essentially recreating a map of the earth with an extra feature to adjust sea levels. 
+Contact
 
-- **Missile Command Remake (Java)**
-  - Recreated the iconic arcade game "Missile Command" in Java from scratch with no external libraries.
+Email: hassan_yusuf_08@hotmail.com
 
-- **Number Guessing Game and Caesar Encryption Algorithm (C++)**
-  - Created a random number guessing game with file storage and encryption.
+LinkedIn: https://www.linkedin.com/in/hassan-yusuf-0016061b9/
 
-- **Text Analysis and Data Manipulation (C++)**
-  - Developed a program for text analysis and frequency graph generation.
+Outside of Tech
 
-- **Random Math Test Generator with Performance Analytics (Python)**
-  - Designed a program to generate math tests and analyze student performance.
-
-
-## Hobbies
-- Competitive basketball
-- Fitness/Gym
-- Competitive gaming
-
-
-<!---
-Hassan-Yusuf/Hassan-Yusuf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Basketball • Gym • Competitive gaming (Masters in League of Legends)
