@@ -35,12 +35,11 @@ TDD • Agile • Clean Architecture
 ---
 
 ## Selected Projects
-
+- **Mailbox Replier** - at /mailbox-replier Full Stack(.NET, REACT, SQLITE) Integration into IMAP API, provides drafts to emails via LLM based on user's tonality.
 - **Roomie App** — Full-stack (.NET, React, GraphQL) automated room pairing system  
 - **COVID-19 Forecaster** — Java forecasting tool with automated PDF reporting and data visualisation  
 - **Pelican Crossing Simulation** — Distributed client-server traffic system  
-- **3D Maze Game (Unity)** — Multi-level AI-driven game with UI and cutscenes  
-- **Altitude Map Visualisation** — Large dataset global terrain modelling project  
+- **3D Maze Game (Unity)** — Multi-level game with AIs and cutscenes  
 
 ---
 
