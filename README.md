@@ -4,48 +4,63 @@
 
 ---
 
-I currently work at **Cloudhouse**, building and improving **C# .NET packaging technology** that enables legacy applications to run on modern systems. My work focuses on virtual machine analysis, packaging workflows, and CI/CD automation across the full development lifecycle.
+I’m a Software Engineer at Cloudhouse, working on C# .NET packaging technology that allows legacy applications to run on modern systems. Most of my work involves analysing virtual machines, improving packaging workflows, and contributing to CI/CD pipelines.
 
-Previously at **The Access Group**, I contributed to the **Direct Debit Central Management System (DDCMS)**, used by organisations such as Eon Energy and Cineworld. I also developed internal applications using .NET, React and GraphQL, and built CI/CD pipelines in Azure DevOps.
-
-I focus on writing clean, maintainable, and well-structured code — prioritising simplicity, readability, and long-term reliability.
+Before that, I was at The Access Group, where I worked on the Direct Debit Central Management System (DDCMS), used by clients like Eon Energy and Cineworld. I also built internal tools using .NET, React and GraphQL, and set up CI/CD pipelines in Azure DevOps.
 
 ---
 
 ## Active Development
 
-[Cloudhouse GitHub (active commits)](https://github.com/hassanyusufcloudhouse)
+https://github.com/hassanyusufcloudhouse
 
 ---
 
 ## Tech Stack
 
-**Languages**  
-C# • .NET • Java • Python • C++ • TypeScript  
+**Languages**
+C# • Java • Python • TypeScript
 
-**Frontend & Backend**  
-React • REST APIs • GraphQL • Entity Framework • Spring Boot  
+**Frontend & Backend**
+React • REST APIs • GraphQL • Entity Framework • Spring Boot
 
-**DevOps & Tooling**  
-Azure DevOps • CI/CD • Git • Terraform • Swagger • Postman  
+**Tooling**
+Azure DevOps • CI/CD • Git • Swagger • Postman
 
-**Engineering Practices**  
-TDD • Agile • Clean Architecture  
+**Practices**
+TDD • Agile • Clean Architecture
 
 ---
 
 ## Selected Projects
-- **Mailbox Replier** - at /mailbox-replier Full Stack(.NET, REACT, SQLITE) Integration into IMAP API, provides drafts to emails via LLM based on user's tonality.
-- **Roomie App** — Full-stack (.NET, React, GraphQL) automated room pairing system  
-- **COVID-19 Forecaster** — Java forecasting tool with automated PDF reporting and data visualisation  
-- **Pelican Crossing Simulation** — Distributed client-server traffic system  
-- **3D Maze Game (Unity)** — Multi-level game with AIs and cutscenes  
+
+**AI Mailbox Draft Assistant**
+
+* Connects to an IMAP inbox and generates draft replies using LLMs
+* Adapts tone per contact using stored email history (SQLite)
+* Includes simple prompt pipelines to keep responses consistent
+
+**Roomie App**
+
+* Full-stack (.NET, React, GraphQL) automated room pairing system
+
+**COVID-19 Forecaster**
+
+* Java app for forecasting trends with automated PDF reports
+
+**Pelican Crossing Simulation**
+
+* Distributed client-server traffic system
+
+**3D Maze Game (Unity)**
+
+* Multi-level game with basic AI and cutscenes
 
 ---
 
 ## Contact
 
-Email: hassan_yusuf_08@hotmail.com  
+Email: [hassan_yusuf_08@hotmail.com](mailto:hassan_yusuf_08@hotmail.com)
 LinkedIn: https://www.linkedin.com/in/hassan-yusuf-0016061b9/
 
 ---
