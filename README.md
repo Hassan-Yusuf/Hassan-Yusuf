@@ -4,7 +4,7 @@
 
 ---
 
-I’m a Software Engineer at Cloudhouse, working on packaging technology that allows legacy applications to run on modern systems. Most of my work involves analysing virtual machines, improving packaging workflows, and contributing to CI/CD pipelines.
+I’m a Software Engineer at Cloudhouse, working on packaging technology that allows legacy applications to run on modern systems (primarly c# .net). Most of my work involves analysing virtual machines, improving packaging workflows, and contributing to CI/CD pipelines.
 
 Before that, I was at The Access Group, where I worked on the Direct Debit Central Management System (DDCMS), used by clients like Eon Energy and Cineworld. I also built internal tools using .NET, React and GraphQL, and set up CI/CD pipelines in Azure DevOps.
 
